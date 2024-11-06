@@ -1,0 +1,17 @@
+📂 livraria-online
+├── 📁 frontend
+│   ├── 📁 public
+│   ├── 📁 src
+│   │   ├── 📁 assets
+│   │   ├── 📁 components
+│   │   ├── 📁 pages
+│   │   ├── 📁 styles
+│   │   └── 📄 App.js
+│   └── 📄 package.json
+├── 📁 backend
+│   ├── 📁 config
+│   ├── 📁 controllers
+│   ├── 📁 models
+│   ├── 📁 routes
+│   └── 📄 server.js
+└── 📄 README.md
